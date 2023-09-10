@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div style={{paddingTop:"6rem", paddingBottom:"15.58rem"}} > 
+      <div style={{paddingTop:"6rem", paddingBottom:"20rem"}} > 
       <div className="App">
         <Main />
       </div>
